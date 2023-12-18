@@ -5,4 +5,5 @@
 	<object_type>*PGM</object_type>
 	<source_loc>*L03</source_loc>
 	<object_loc>*L01</object_loc>
+	<sub_system>FAM</sub_system>
 </mbr_properties>
